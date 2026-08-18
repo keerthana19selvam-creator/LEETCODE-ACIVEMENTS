@@ -4,9 +4,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/keerthana19selvam-creator/LEETCODE-ACIVEMENTS/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/keerthana19selvam-creator/LEETCODE-ACIVEMENTS/tree/master/0066-plus-one) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/keerthana19selvam-creator/LEETCODE-ACIVEMENTS/tree/master/0066-plus-one) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/keerthana19selvam-creator/LEETCODE-ACIVEMENTS/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/keerthana19selvam-creator/LEETCODE-ACIVEMENTS/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
